@@ -52,7 +52,6 @@ export default function StarRating({
               color={color}
               size={size}
             />
-            {i + 1}
           </span>
         ))}
       </div>
